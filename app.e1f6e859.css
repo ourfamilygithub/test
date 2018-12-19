@@ -1,0 +1,52 @@
+html, body, #app {
+  height: 100%;
+}
+body {
+  font-family: sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+.styles__header-container__XTPBU{padding:15px 25px}.styles__header-container__XTPBU h6{font-size:0.8rem}.styles__header-container__XTPBU .styles__social-wrapper__1sa10{background-color:red}
+
+.styles__luna-editor-actionbar__LVcpN button{margin-right:5px;cursor:pointer}.styles__luna-editor-actionbar__LVcpN button svg{color:#646464}
+
+/* @import "./assets/scss/bootstrap-grid.min.css"; */
+/* @import "./assets/scss/bootstrap-4-utilities.css"; */
+
+body {
+    background-color: #f5f8fa
+}
+
+
+/* Spacing */
+.luna__d-flex {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+}
+.luna__align-content-center {
+    -ms-flex-line-pack: center;
+        align-content: center;
+    -webkit-box-align: center;
+        -ms-flex-align: center;
+            align-items: center
+}
+.luna__ml-auto {
+    margin-left: auto
+}
+.luna__mr-auto {
+    margin-right: auto
+}
+
+
+
+.luna__card {
+    background-color: #ffffff;
+    -webkit-box-shadow: 0 1px 4px rgba(0, 0, 0, 0.1);
+            box-shadow: 0 1px 4px rgba(0, 0, 0, 0.1);
+}
+.styles__luna__app__3mKR4 h6{margin:10px 0}.styles__luna-editor-actionbar__3A4wj button{margin-right:5px}.styles__luna-editor-actionbar__3A4wj button svg{color:#646464}
+
+
+/*# sourceMappingURL=app.e1f6e859.css.map*/
